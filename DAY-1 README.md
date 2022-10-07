@@ -1,6 +1,6 @@
 # kotipi-abhisreee
-DAY 1
-DAY 1 1.alphabetical order,
+#DAY 1
+1.alphabetical order,
 2.class and object perfect number,
 3.composite number,
 4.eligible voting or not
@@ -15,4 +15,4 @@ DAY 1 1.alphabetical order,
 13.remove vowels,
 14.reverse a word using loop,
 15.sum of loop.
-DONE IN DEV C++
+# DONE IN DEV C++
