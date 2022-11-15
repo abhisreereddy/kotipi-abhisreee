@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
-class perfect{
+class perfect
+{
 int i, num, div, sum=0;
 cout << "Enter the number to be checked : ";
 cin >> num;
